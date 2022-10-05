@@ -1,16 +1,16 @@
 font{
   font-weight: normal;
 }
-.sleipnir{
+.spacetaxi{
   background-color:black;
   color:White;
 }
-.strider{
-  background-color:White;
+.planettaxi{
+  background-color:green;
 }
-.valkyrie{
-  background-color: Grey;
+.healing{
+  background-color:red;
 }
-.services{
-  background-color:rgb(35, 10, 10);
+.hunting{
+  background-color:saddlebrown;
 }
