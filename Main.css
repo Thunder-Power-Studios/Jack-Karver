@@ -1,6 +1,3 @@
-font{
-  font-weight: normal;
-}
 .spacetaxi{
   background-color:black;
   color:White;
@@ -19,4 +16,9 @@ body{
 }
 h5{
 	font-size:20px;
+}
+button{
+	font-family:'Permanent Marker',cursive;
+	font-weight: bold;
+	text-transform: uppercase;
 }
