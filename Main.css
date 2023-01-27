@@ -11,6 +11,12 @@ font{
 .healing{
   background-color:red;
 }
-.hunting{
-  background-color:saddlebrown;
+h1{
+	font-size:50px;
+}
+body{
+	background-color:saddlebrown;
+}
+h5{
+	font-size:20px;
 }
