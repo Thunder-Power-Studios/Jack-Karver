@@ -1,12 +1,12 @@
 .spacetaxi{
-  background-color:black;
-  color:White;
+  	background-color:black;
+  	color:White;
 }
 .planettaxi{
-  background-color:green;
+  	background-color:green;
 }
 .healing{
-  background-color:red;
+  	background-color:red;
 }
 h1{
 	font-size:50px;
@@ -21,4 +21,10 @@ button{
 	font-family:'Permanent Marker',cursive;
 	font-weight: bold;
 	text-transform: uppercase;
+}
+.hunting{
+	background-color:#355e3b;
+}
+.paymentplans{
+	background-color:#ffd700;
 }
