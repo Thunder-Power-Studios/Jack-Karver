@@ -1,0 +1,27 @@
+<div class="column"><div class="product"><div class="content">
+<center><h1></h1>
+<p>Value: PED</p>
+<p>Markup:%</p>
+<p clss="price"> PED</p>
+</center></div></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column"><div class="product"><div class="content">
+<center><h1>Lysterium Stone</h1>
+<p>Value:0.27 PED</p>
+<p>Markup:102%</p>
+<p clss="price">0.28 PED</p>
+</center></div></div></div>

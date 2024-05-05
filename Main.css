@@ -9,19 +9,19 @@
   	background-color:red;
 }
 h1{
-	font-size:50px;
+	font-size:3.12rem;
 }
 body{
 	background-color:saddlebrown;
 }
 h5{
-	font-size:20px;
+	font-size:1.25rem;
 }
 button{
 	font-family:'Permanent Marker',cursive;
 	font-weight:bold;
 	text-transform:uppercase;
-	border-radius:30px;
+	border-radius:1.87rem;
 }
 .hunting{
 	background-color:#355e3b;
@@ -31,10 +31,10 @@ button{
 }
 .product{
 	position:relative;
-	width:350px;
-	box-shadow:0 0 10px 0 rgba(0,0,0,7);
-	border-radius:25px;
-	height:350px;
+	width:21.87rem;
+	box-shadow:0 0 0.62rem 0 rgba(0,0,0,7);
+	border-radius:1.56rem;
+	height:21.87rem;
 }
 .column{
 	float:left;
@@ -57,4 +57,7 @@ button{
 }
 hr.mini{
 	width:75%
+}
+.homepageitems{
+	background-color:blue;
 }
